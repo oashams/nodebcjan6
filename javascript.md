@@ -3195,7 +3195,7 @@ console.log(person);
 * The object properties are variables too so we can assign or get their value
 * Object properties in JavaScript are dynamic
 * This means that if we assign a value to an object property that hasn't been defined it will create it
-* We need to make sure we get the variable name wright
+* We need to make sure we get the variable name right
 
 **Example:**
 ```js
